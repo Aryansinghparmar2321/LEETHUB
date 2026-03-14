@@ -30,4 +30,16 @@
 | ------- | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0567-permutation-in-string/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0055-jump-game](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0055-jump-game/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0055-jump-game](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0055-jump-game/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0055-jump-game](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0055-jump-game/) | Medium |
 <!---LeetCode Topics End-->
