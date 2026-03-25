@@ -68,4 +68,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0050-powx-n/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0077-combinations](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0077-combinations/) | Medium |
 <!---LeetCode Topics End-->
