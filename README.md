@@ -10,6 +10,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0242-valid-anagram/) | Easy |
@@ -35,6 +36,7 @@
 | ------- | ------- |
 | [0055-jump-game](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0055-jump-game/) | Medium |
 | [0078-subsets](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0079-word-search/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,8 +76,17 @@
 | ------- | ------- |
 | [0077-combinations](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0079-word-search/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0078-subsets/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0079-word-search](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0079-word-search/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0079-word-search](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0079-word-search/) | Medium |
 <!---LeetCode Topics End-->
