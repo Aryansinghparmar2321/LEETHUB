@@ -34,6 +34,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0055-jump-game/) | Medium |
+| [0078-subsets](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0078-subsets/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,4 +73,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0077-combinations](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0077-combinations/) | Medium |
+| [0078-subsets](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0078-subsets/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
