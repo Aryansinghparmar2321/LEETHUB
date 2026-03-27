@@ -85,8 +85,21 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0079-word-search/) | Medium |
+| [0098-validate-binary-search-tree](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0098-validate-binary-search-tree/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0079-word-search/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0098-validate-binary-search-tree/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0098-validate-binary-search-tree/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0098-validate-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
