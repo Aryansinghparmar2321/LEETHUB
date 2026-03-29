@@ -87,6 +87,7 @@
 | [0079-word-search](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0079-word-search/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0110-balanced-binary-tree](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0110-balanced-binary-tree/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -96,6 +97,7 @@
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0110-balanced-binary-tree](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0110-balanced-binary-tree/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,6 +107,7 @@
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0110-balanced-binary-tree](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0110-balanced-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
