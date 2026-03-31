@@ -38,6 +38,7 @@
 | [0055-jump-game](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0055-jump-game/) | Medium |
 | [0078-subsets](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0079-word-search/) | Medium |
+| [0704-binary-search](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0704-binary-search/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -106,6 +107,7 @@
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0704-binary-search](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0704-binary-search/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
