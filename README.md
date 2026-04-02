@@ -39,6 +39,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0035-search-insert-position/) | Easy |
 | [0055-jump-game](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0055-jump-game/) | Medium |
+| [0057-insert-interval](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0057-insert-interval/) | Medium |
 | [0078-subsets](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0079-word-search/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
