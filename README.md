@@ -7,6 +7,7 @@
 | [0125-valid-palindrome](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0567-permutation-in-string/) | Medium |
+| [0881-boats-to-save-people](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0881-boats-to-save-people/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -29,6 +30,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0242-valid-anagram](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0242-valid-anagram/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0881-boats-to-save-people](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0881-boats-to-save-people/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -49,6 +51,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0704-binary-search](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0704-binary-search/) | Easy |
+| [0881-boats-to-save-people](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0881-boats-to-save-people/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -60,6 +63,7 @@
 | [0055-jump-game](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0055-jump-game/) | Medium |
 | [0134-gas-station](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0134-gas-station/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0881-boats-to-save-people](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0881-boats-to-save-people/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
