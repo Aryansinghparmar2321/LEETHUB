@@ -70,6 +70,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0023-merge-k-sorted-lists](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0023-merge-k-sorted-lists/) | Hard |
@@ -79,6 +80,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0050-powx-n](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0050-powx-n/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0203-remove-linked-list-elements/) | Easy |
@@ -100,6 +102,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0002-add-two-numbers/) | Medium |
 | [0050-powx-n](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0050-powx-n/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
