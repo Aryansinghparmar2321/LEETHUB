@@ -55,6 +55,7 @@
 | [0078-subsets](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0079-word-search/) | Medium |
 | [0134-gas-station](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0134-gas-station/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0704-binary-search](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0704-binary-search/) | Easy |
@@ -114,6 +115,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0002-add-two-numbers/) | Medium |
 | [0050-powx-n](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0050-powx-n/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -166,5 +168,6 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0234-palindrome-linked-list/) | Easy |
 <!---LeetCode Topics End-->
