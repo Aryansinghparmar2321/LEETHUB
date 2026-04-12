@@ -178,9 +178,14 @@
 | [0071-simplify-path](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0071-simplify-path/) | Medium |
 | [0085-maximal-rectangle](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0085-maximal-rectangle/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0155-min-stack](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0155-min-stack/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0085-maximal-rectangle](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0085-maximal-rectangle/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->
