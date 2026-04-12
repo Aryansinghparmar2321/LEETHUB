@@ -30,6 +30,7 @@
 | [0141-linked-list-cycle](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0141-linked-list-cycle/) | Easy |
 | [0242-valid-anagram](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0242-valid-anagram/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0496-next-greater-element-i](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0496-next-greater-element-i/) | Easy |
 | [0567-permutation-in-string](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0567-permutation-in-string/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -61,6 +62,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0496-next-greater-element-i](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0496-next-greater-element-i/) | Easy |
 | [0704-binary-search](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0704-binary-search/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0881-boats-to-save-people/) | Medium |
 ## Dynamic Programming
@@ -180,10 +182,12 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0155-min-stack/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0496-next-greater-element-i](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0496-next-greater-element-i/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0085-maximal-rectangle](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0085-maximal-rectangle/) | Hard |
+| [0496-next-greater-element-i](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0496-next-greater-element-i/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
