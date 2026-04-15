@@ -64,6 +64,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0496-next-greater-element-i/) | Easy |
 | [0704-binary-search](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0704-binary-search/) | Easy |
+| [0739-daily-temperatures](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0739-daily-temperatures/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0881-boats-to-save-people/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -183,11 +184,13 @@
 | [0155-min-stack](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0155-min-stack/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0496-next-greater-element-i/) | Easy |
+| [0739-daily-temperatures](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0739-daily-temperatures/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0085-maximal-rectangle](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0085-maximal-rectangle/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0496-next-greater-element-i/) | Easy |
+| [0739-daily-temperatures](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0739-daily-temperatures/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
