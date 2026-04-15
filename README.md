@@ -66,6 +66,7 @@
 | [0704-binary-search](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0739-daily-temperatures/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0881-boats-to-save-people/) | Medium |
+| [0946-validate-stack-sequences](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0946-validate-stack-sequences/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -185,6 +186,7 @@
 | [0234-palindrome-linked-list](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0739-daily-temperatures/) | Medium |
+| [0946-validate-stack-sequences](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0946-validate-stack-sequences/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -195,4 +197,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0155-min-stack/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0946-validate-stack-sequences](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0946-validate-stack-sequences/) | Medium |
 <!---LeetCode Topics End-->
