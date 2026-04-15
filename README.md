@@ -63,6 +63,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0496-next-greater-element-i/) | Easy |
+| [0641-design-circular-deque](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0641-design-circular-deque/) | Medium |
 | [0704-binary-search](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0739-daily-temperatures/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0881-boats-to-save-people/) | Medium |
@@ -94,6 +95,7 @@
 | [0203-remove-linked-list-elements](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0641-design-circular-deque](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0641-design-circular-deque/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -197,8 +199,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0155-min-stack/) | Medium |
+| [0641-design-circular-deque](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0641-design-circular-deque/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0946-validate-stack-sequences](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0946-validate-stack-sequences/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0641-design-circular-deque](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0641-design-circular-deque/) | Medium |
 <!---LeetCode Topics End-->
