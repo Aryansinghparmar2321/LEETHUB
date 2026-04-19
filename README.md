@@ -143,6 +143,7 @@
 | [0079-word-search](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0079-word-search/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0100-same-tree](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0110-balanced-binary-tree/) | Easy |
 ## Matrix
@@ -155,6 +156,7 @@
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0100-same-tree](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0110-balanced-binary-tree/) | Easy |
 ## Binary Search Tree
@@ -170,11 +172,13 @@
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0100-same-tree](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0110-balanced-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
