@@ -147,6 +147,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Matrix
@@ -163,6 +164,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Search Tree
@@ -182,6 +184,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Breadth-First Search
@@ -189,6 +192,7 @@
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0226-invert-binary-tree/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
