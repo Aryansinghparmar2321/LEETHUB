@@ -26,6 +26,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0036-valid-sudoku](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0036-valid-sudoku/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0141-linked-list-cycle/) | Easy |
@@ -53,6 +54,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0035-search-insert-position/) | Easy |
+| [0036-valid-sudoku](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0036-valid-sudoku/) | Medium |
 | [0055-jump-game](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0057-insert-interval/) | Medium |
@@ -156,6 +158,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0036-valid-sudoku](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0036-valid-sudoku/) | Medium |
 | [0079-word-search](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0079-word-search/) | Medium |
 | [0085-maximal-rectangle](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0085-maximal-rectangle/) | Hard |
 ## Tree
