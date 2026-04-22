@@ -15,6 +15,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0013-roman-to-integer/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0071-simplify-path](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0071-simplify-path/) | Medium |
@@ -27,6 +28,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0013-roman-to-integer/) | Easy |
 | [0036-valid-sudoku](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0036-valid-sudoku/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -132,6 +134,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0002-add-two-numbers/) | Medium |
+| [0012-integer-to-roman](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0013-roman-to-integer/) | Easy |
 | [0050-powx-n](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0050-powx-n/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
