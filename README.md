@@ -9,6 +9,7 @@
 | [0141-linked-list-cycle](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0141-linked-list-cycle/) | Easy |
 | [0148-sort-list](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0148-sort-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0202-happy-number](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0567-permutation-in-string](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0567-permutation-in-string/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0881-boats-to-save-people/) | Medium |
@@ -35,6 +36,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0141-linked-list-cycle/) | Easy |
+| [0202-happy-number](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0202-happy-number/) | Easy |
 | [0242-valid-anagram](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0242-valid-anagram/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0496-next-greater-element-i/) | Easy |
@@ -140,6 +142,7 @@
 | [0013-roman-to-integer](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0013-roman-to-integer/) | Easy |
 | [0050-powx-n](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0050-powx-n/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0202-happy-number](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0202-happy-number/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
