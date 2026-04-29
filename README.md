@@ -82,6 +82,7 @@
 | [0134-gas-station](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0134-gas-station/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0496-next-greater-element-i/) | Easy |
 | [0641-design-circular-deque](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0641-design-circular-deque/) | Medium |
@@ -140,6 +141,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
