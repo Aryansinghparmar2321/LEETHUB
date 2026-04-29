@@ -56,6 +56,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0242-valid-anagram](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0242-valid-anagram/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0881-boats-to-save-people/) | Medium |
@@ -83,6 +84,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0496-next-greater-element-i/) | Easy |
 | [0641-design-circular-deque](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0641-design-circular-deque/) | Medium |
@@ -142,6 +144,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -186,6 +189,7 @@
 | [0036-valid-sudoku](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0036-valid-sudoku/) | Medium |
 | [0079-word-search](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0079-word-search/) | Medium |
 | [0085-maximal-rectangle](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0085-maximal-rectangle/) | Hard |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -206,6 +210,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0035-search-insert-position/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0704-binary-search](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0704-binary-search/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
