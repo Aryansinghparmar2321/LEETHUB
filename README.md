@@ -67,6 +67,7 @@
 | [0692-top-k-frequent-words](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0767-reorganize-string/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0881-boats-to-save-people/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -102,6 +103,7 @@
 | [0739-daily-temperatures](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0739-daily-temperatures/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0881-boats-to-save-people/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0946-validate-stack-sequences/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -149,6 +151,7 @@
 | [0148-sort-list](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0148-sort-list/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -161,6 +164,7 @@
 | [0621-task-scheduler](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0767-reorganize-string/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -175,6 +179,7 @@
 | [0050-powx-n](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0050-powx-n/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0202-happy-number](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0202-happy-number/) | Easy |
+| [0973-k-closest-points-to-origin](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -252,6 +257,7 @@
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -313,4 +319,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0295-find-median-from-data-stream/) | Hard |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0973-k-closest-points-to-origin/) | Medium |
 <!---LeetCode Topics End-->
