@@ -48,6 +48,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0496-next-greater-element-i/) | Easy |
 | [0567-permutation-in-string](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0567-permutation-in-string/) | Medium |
+| [0621-task-scheduler](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -60,6 +61,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0621-task-scheduler](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0881-boats-to-save-people/) | Medium |
 ## Sliding Window
@@ -90,6 +92,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0496-next-greater-element-i/) | Easy |
+| [0621-task-scheduler](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0621-task-scheduler/) | Medium |
 | [0641-design-circular-deque](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0641-design-circular-deque/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0704-binary-search](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0704-binary-search/) | Easy |
@@ -109,6 +112,7 @@
 | [0055-jump-game](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0055-jump-game/) | Medium |
 | [0134-gas-station](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0134-gas-station/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0621-task-scheduler](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0621-task-scheduler/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0881-boats-to-save-people/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -150,6 +154,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0621-task-scheduler](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -287,6 +292,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0621-task-scheduler](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
