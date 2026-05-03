@@ -30,6 +30,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0567-permutation-in-string/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0767-reorganize-string](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0767-reorganize-string/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,6 +51,7 @@
 | [0567-permutation-in-string](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0567-permutation-in-string/) | Medium |
 | [0621-task-scheduler](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0767-reorganize-string](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0767-reorganize-string/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,6 +65,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0621-task-scheduler](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0767-reorganize-string](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0767-reorganize-string/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0881-boats-to-save-people/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -113,6 +116,7 @@
 | [0134-gas-station](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0134-gas-station/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0621-task-scheduler](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0621-task-scheduler/) | Medium |
+| [0767-reorganize-string](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0767-reorganize-string/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0881-boats-to-save-people/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -156,6 +160,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0621-task-scheduler](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0767-reorganize-string](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0767-reorganize-string/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -294,6 +299,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0621-task-scheduler](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0767-reorganize-string](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0767-reorganize-string/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
