@@ -93,6 +93,7 @@
 | [0198-house-robber](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0198-house-robber/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0322-coin-change](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
@@ -114,6 +115,7 @@
 | [0085-maximal-rectangle](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0085-maximal-rectangle/) | Hard |
 | [0198-house-robber](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0198-house-robber/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0322-coin-change](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0322-coin-change/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0435-non-overlapping-intervals/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -257,6 +259,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0226-invert-binary-tree/) | Easy |
+| [0322-coin-change](https://github.com/Aryansinghparmar2321/LEETHUB/tree/main/0322-coin-change/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
